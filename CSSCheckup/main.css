@@ -1,0 +1,31 @@
+.css-classes li{
+    color: blue;
+    font-size: 20px;
+    background: lightblue;
+    width: 50%;
+}
+
+.Reservations{
+    height: 200px;
+    width: 50%;
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: navy;
+}
+body{
+    background-color:lightpink;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 120px;
+    background-color: lightblue;
+    border-style: dashed;
+    border-color: navy;
+    margin: 5px;
+}
+.Wishes{
+    background-color: lightpink;
+    border: 5px solid navy;
+}
